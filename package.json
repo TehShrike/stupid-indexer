@@ -1,0 +1,8 @@
+{
+	"name": "stupid-indexer",
+	"version": "1.0.0",
+	"main": "./index.js",
+	"author": { "name": "TehShrike", "email": "me@JoshDuff.com", "url": "http://joshduff.com" },
+	"description": "It's almost as dumb as it looks!",
+	"repository": { "type": "git", "url": "https://github.com/TehShrike/stupid-indexer.git" }
+}
